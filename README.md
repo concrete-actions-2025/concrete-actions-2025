@@ -27,3 +27,5 @@ For now, [here](list-of-actions.md) is a specific (and growing) list of actions 
 See [here](know-your-rights.md)
 
 *For most references, I tried to choose openly available sources even when they were not the best. Universities offer free online access to some newspapers + some channels allow limited number of free articles.*
+
+Last updated: Apr 18, 2025
