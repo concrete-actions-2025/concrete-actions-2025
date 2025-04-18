@@ -40,7 +40,7 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - [Call your representatives](https://5calls.org/)
 - Show up to town halls [[1]](https://indivisible.org/town-hall-resources) [[2]](https://www.lwv.org/blog/your-members-congress-must-attend-town-halls-turn-heat)
 - Donate in competitive local races
-- -NYC Mayoral elections
+- - NYC Mayoral elections
 
 ## Exercise Your Free Speech!
 - Use your platform--however small--to spread awareness
