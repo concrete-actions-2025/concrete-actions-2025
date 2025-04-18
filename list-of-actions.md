@@ -15,7 +15,7 @@ Support organizations on the front lines—challenging unlawful deportations, de
 - Others: ACLU and Planned Parenthood are more famous, and still doing good work, but are now well-oiled fundraising machines [with possible downsides](https://www.newyorker.com/news/our-columnists/the-asymmetry-in-the-abortion-rights-movement)
   
 ## Donate to (international) health and education nonprofits 
-The Health Secretary et al are running a massive disinformation campaign [1](https://www.npr.org/sections/shots-health-news/2025/03/28/nx-s1-5344010/fda-peter-marks-rfk-jr) [2](https://www.theguardian.com/us-news/2025/apr/16/rjk-jr-rise-autism-diagnoses) and defunding the Centre for Disease Control and the National Institutes for Health [3](https://www.wired.com/story/cdc-gutted-rif/) [4](https://www.nature.com/articles/d41586-025-01099-8) at the same time as multiple ongoing and future threats to public health [5](https://healthpolicy-watch.news/us-measles-cases-soar-as-health-secretary-sends-mixed-messages-about-vaccines/) [6](https://www.theguardian.com/world/2025/feb/16/monday-briefing-whether-it-becomes-a-pandemic-or-not-the-bird-flu-crisis-warrants-attention). Loss of federal funding is also disrupting the work of nonprofits, both within the US and globally, that distribute medicines, run vaccination and nutrition programs [7](https://apnews.com/article/trump-africa-aid-freeze-pepfar-usaid-hiv-d1c34ac35af30e8f680f580f7d1b3029) [8](https://www.nytimes.com/2025/02/27/health/usaid-contract-terminations.html). Donating money now should not be seen as a case for permanent philanthropic (rather than government) funding of these projects but to act as a stopgap while they are battling it out in the courts. Inspired by [this post](https://www.scientificdiscovery.dev/p/we-dont-have-to-sit-back-and-just), some options: 
+The Health Secretary et al are running a massive disinformation campaign [[1]](https://www.npr.org/sections/shots-health-news/2025/03/28/nx-s1-5344010/fda-peter-marks-rfk-jr) [[2]](https://www.theguardian.com/us-news/2025/apr/16/rjk-jr-rise-autism-diagnoses) and defunding the Centre for Disease Control and the National Institutes for Health [[3]](https://www.wired.com/story/cdc-gutted-rif/) [[4]](https://www.nature.com/articles/d41586-025-01099-8) at the same time as multiple ongoing and future threats to public health [[5]](https://healthpolicy-watch.news/us-measles-cases-soar-as-health-secretary-sends-mixed-messages-about-vaccines/) [[6]](https://www.theguardian.com/world/2025/feb/16/monday-briefing-whether-it-becomes-a-pandemic-or-not-the-bird-flu-crisis-warrants-attention). Loss of federal funding is also disrupting the work of nonprofits, both within the US and globally, that distribute medicines, run vaccination and nutrition programs [[7]](https://apnews.com/article/trump-africa-aid-freeze-pepfar-usaid-hiv-d1c34ac35af30e8f680f580f7d1b3029) [[8]](https://www.nytimes.com/2025/02/27/health/usaid-contract-terminations.html). Donating money now should not be seen as a case for permanent philanthropic (rather than government) funding of these projects but to act as a stopgap while they are battling it out in the courts. Inspired by [this post](https://www.scientificdiscovery.dev/p/we-dont-have-to-sit-back-and-just), some options: 
 
 - [Rapid Response Fund](https://www.founderspledge.com/funds/rapid-response-fund)
 - [Foreign Aid Bridge Fund](https://www.foreignaidbridgefund.org/)
@@ -35,7 +35,7 @@ The Health Secretary et al are running a massive disinformation campaign [1](htt
 
 ## Political action (American citizens only)
 - [Call your representatives](https://5calls.org/)
-- Show up to town halls [1](https://indivisible.org/town-hall-resources) [2](https://www.lwv.org/blog/your-members-congress-must-attend-town-halls-turn-heat)
+- Show up to town halls [[1]](https://indivisible.org/town-hall-resources) [[2]](https://www.lwv.org/blog/your-members-congress-must-attend-town-halls-turn-heat)
 - Donate to Democrats in competitive local races
 
 ## Exercise Your Free Speech!
@@ -46,7 +46,7 @@ The Health Secretary et al are running a massive disinformation campaign [1](htt
 
 
 ## Can we (American / otherwise) really effect change?
-- Yes: [1](https://omeka.uottawa.ca/recipro/exhibits/show/the-transnational-anti-aparthe/cw-and-anti-apartheid), [2](https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War), [3](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action)
+- Yes: [[1]](https://omeka.uottawa.ca/recipro/exhibits/show/the-transnational-anti-aparthe/cw-and-anti-apartheid), [[2]](https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War), [[3]](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action)
 - [The power of incremental change](https://www.theguardian.com/commentisfree/2025/mar/14/trump-democrats-political-change):
 "...one-third of respondents reported spending at least two hours a day reading, discussing and thinking about political news [without taking action]. Too many of us misunderstand what politics is: 'It’s about working in groups to turn one vote into more than one vote, one voice into more than one voice, by getting others on board with you.’”
 - [Courage is contagious](https://www.newyorker.com/news/the-weekend-essay/so-you-want-to-be-a-dissident)
