@@ -35,7 +35,7 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
 - Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
 
-## Political action (American citizens only)
+## Political action (US residents)
 - [Call your representatives](https://5calls.org/)
 - Show up to town halls [[1]](https://indivisible.org/town-hall-resources) [[2]](https://www.lwv.org/blog/your-members-congress-must-attend-town-halls-turn-heat)
 - Donate in competitive local races
