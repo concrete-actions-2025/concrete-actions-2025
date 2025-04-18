@@ -46,6 +46,7 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - [Science advocacy](https://sciencehomecoming.com/) Talk about how science and science funding is essential for public and environmental health and supports national and local economy, and why the attacks on NIH, NSF, CDC, universities etc are wrong.
 - Join protests against the Trump agenda, whether in the U.S. or abroad [1](https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration)
   - Upcoming: [Hands Off: April 19](https://www.fiftyfifty.one/)
+  - [Know Your Rights](know-your-rights.md#protesting)
 
 
 ## Can we (American / otherwise) really effect change?
