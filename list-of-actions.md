@@ -40,13 +40,13 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - [Call your representatives](https://5calls.org/)
 - Show up to town halls [[1]](https://indivisible.org/town-hall-resources) [[2]](https://www.lwv.org/blog/your-members-congress-must-attend-town-halls-turn-heat)
 - Donate in competitive local races
-  - NYC Mayoral elections
+  - NYC Mayoral elections [[3]](https://region9a.uaw.org/news/dreamnyc)
 
 ## Exercise Your Free Speech!
 - Use your platform--however small--to spread awareness
 - [Science advocacy](https://sciencehomecoming.com/) Talk about how science and science funding is essential for public and environmental health and supports national and local economy, and why the attacks on NIH, NSF, CDC, universities etc are wrong.
 - Join protests against the Trump agenda, whether in the U.S. or abroad [1](https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration)
--  - Upcoming: [Hands Off: April 19](https://www.fiftyfifty.one/)
+  - Upcoming: [Hands Off: April 19](https://www.fiftyfifty.one/)
 
 
 ## Can we (American / otherwise) really effect change?
