@@ -22,6 +22,7 @@
 There are know your rights resources for immigrants regarding encounters with ICE at the [Immigrant Legal Resource Center](ilrc.org):
 - [A two page handout](https://www.ilrc.org/sites/default/files/resources/kyr_two_pager_v2.pdf)
 - [A card version](https://www.ilrc.org/sites/default/files/documents/red_card-self_srv-english.pdf)
-
+  
+![image](what_to_say_to_ICE_agents.jp2)
 
 Last updated: Apr 18, 2025
