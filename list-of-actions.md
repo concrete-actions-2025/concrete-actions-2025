@@ -32,8 +32,9 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 
 ## Volunteering
 - Voter registration drives, [phonebanking](https://www.impactive.io/blog/what-is-phone-banking-and-why-is-it-important), voter education (e.g. [Fair Fight](https://www.fairfight.com/lfgv), [League of Women Voters](https://www.lwv.org/), [Voto Latino](https://votolatino.org/understand/), and more). Check in with neighbors, friends, students and other first-time voters. These include conversations about how to register, why their vote matters, information about candidates, and how elections generally work.
-- Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
-- Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
+- Improving the information ecosystem. This can be reaching out to friend networks or with local organizing, for example in collaboration with unions, institutions of faith, neighborhood associations or residential communities etc.
+   - Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
+   - Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
 
 ## Political action (US residents)
 - [Call your representatives](https://5calls.org/)
@@ -42,8 +43,8 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
   - NYC Mayoral elections [[3]](https://region9a.uaw.org/news/dreamnyc)
 
 ## Exercise Your Free Speech!
-- Use your platform--however small--to spread awareness
-- [Science advocacy](https://sciencehomecoming.com/) Talk about how science and science funding is essential for public and environmental health and supports national and local economy, and why the attacks on NIH, NSF, CDC, universities etc are wrong.
+- Use your platform--however small--to spread awareness - write, speak, create art!
+- [Science advocacy](https://sciencehomecoming.com/). Talk about how science and science funding is essential for public and environmental health and supports national and local economy, and why the attacks on federal agencies such as NIH, CDC, NSF and universities are wrong.
 - Join protests against the Trump agenda, whether in the U.S. or abroad [1](https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration)
   - Upcoming: [Hands Off: April 19](https://www.fiftyfifty.one/)
   - [Know Your Rights](know-your-rights.md#protesting)
