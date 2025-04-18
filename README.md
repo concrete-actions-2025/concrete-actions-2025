@@ -1,8 +1,9 @@
 # What we can do right now
 
-[List]
+[List](list-of-actions.md)
 
-[Note]
+
+### Note
 Donald Trump’s second term is decimating civil rights and democratic norms in the U.S., threatening LGBTQ+ rights [1], [2], immigration [3], [4], [5], the free press [6], free speech [7], academic freedom [8], public health and science [9], [10], [11], flouting constitutional norms all the while aligning with authoritarian regimes [12] [13], challenging the system of judicial and legislative checks and balances [14] [15] , and rolling in grift [16]. (and more: [17]). It’s hard to keep up and it hurts to read the news everyday.
 These actions have ripple effects on the rest of the world—emboldening authoritarian leaders, eroding democratic norms in international institutions, and distorting the global information landscape through America's outsized cultural and tech influence. But whether you're an American or a concerned global citizen, there are specific actions we can take right now to stand up for civil rights and democratic values.
 
