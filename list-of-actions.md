@@ -1,52 +1,53 @@
 
  
 ## Donate to legal and civil rights organizations
-Support organizations on the front lines—challenging unlawful deportations, defending free speech, and protecting marginalized communities in court. Foreign donations: if your credit card is not going through, try PayPal.
-- National Lawyers Guild
-- Public Citizen
-- Center for Constitutional Rights
-- People for the American Way [donating from overseas]
-- Immigration Legal Resource Center
-- Democracy Forward [foreign donations: pending, will update]
-- Brennan Center
-- GLAD Law — GLBTQ Legal Advocates & Defenders
-- National Women’s Law Center
-- Center for Reproductive Rights
-- Others: ACLU and Planned Parenthood are more famous, and still doing good work, but are now well-oiled fundraising machines with possible downsides
+Support organizations on the front lines—challenging unlawful deportations, defending free speech, and protecting marginalized communities in court. *Foreign donations: if your credit card is not going through, try PayPal*.
+- [National Lawyers Guild](https://www.nlg.org/donate)
+- [Public Citizen](https://www.citizen.org/)
+- [Center for Constitutional Rights](https://ccrjustice.org/)
+- [People for the American Way](https://www.pfaw.org/) [donating [from overseas](https://act.pfaw.org/donate/donate-to-people-for-the-american-way-international/?source=pfaw_faq&&)]
+- [Immigration Legal Resource Center](https://www.ilrc.org/who-we-are)
+- [Democracy Forward](https://www.democracyforward.org/)
+- [Brennan Center](https://www.brennancenter.org/)
+- [GLAD Law — GLBTQ Legal Advocates & Defenders](https://www.glad.org/)
+- [National Women’s Law Center](https://nwlc.org/)
+- [Center for Reproductive Rights](https://reproductiverights.org/)
+- Others: ACLU and Planned Parenthood are more famous, and still doing good work, but are now well-oiled fundraising machines [with possible downsides](https://www.newyorker.com/news/our-columnists/the-asymmetry-in-the-abortion-rights-movement)
   
 ## Donate to (international) health and education nonprofits 
-The Health Secretary et al are running a massive disinformation campaign [1] [2] and defunding the Centre for Disease Control and the National Institutes for Health [3] [4] at the same time as multiple ongoing and future threats to public health [5][6]. Loss of federal funding is also disrupting the work of nonprofits, both within the US and globally, that distribute medicines, run vaccination and nutrition programs [7] [8]. Donating money now should not be seen as a case for permanent philanthropic (rather than government) funding of these projects but to act as a stopgap while they are battling it out in the courts. Inspired by this post, some options: 
+The Health Secretary et al are running a massive disinformation campaign [1](https://www.npr.org/sections/shots-health-news/2025/03/28/nx-s1-5344010/fda-peter-marks-rfk-jr) [2](https://www.theguardian.com/us-news/2025/apr/16/rjk-jr-rise-autism-diagnoses) and defunding the Centre for Disease Control and the National Institutes for Health [3](https://www.wired.com/story/cdc-gutted-rif/) [4](https://www.nature.com/articles/d41586-025-01099-8) at the same time as multiple ongoing and future threats to public health [5](https://healthpolicy-watch.news/us-measles-cases-soar-as-health-secretary-sends-mixed-messages-about-vaccines/) [6](https://www.theguardian.com/world/2025/feb/16/monday-briefing-whether-it-becomes-a-pandemic-or-not-the-bird-flu-crisis-warrants-attention). Loss of federal funding is also disrupting the work of nonprofits, both within the US and globally, that distribute medicines, run vaccination and nutrition programs [7](https://apnews.com/article/trump-africa-aid-freeze-pepfar-usaid-hiv-d1c34ac35af30e8f680f580f7d1b3029) [8](https://www.nytimes.com/2025/02/27/health/usaid-contract-terminations.html). Donating money now should not be seen as a case for permanent philanthropic (rather than government) funding of these projects but to act as a stopgap while they are battling it out in the courts. Inspired by [this post](https://www.scientificdiscovery.dev/p/we-dont-have-to-sit-back-and-just), some options: 
 
-- Rapid Response Fund
-- Foreign Aid Bridge Fund
-- Gavi
+- [Rapid Response Fund](https://www.founderspledge.com/funds/rapid-response-fund)
+- [Foreign Aid Bridge Fund](https://www.foreignaidbridgefund.org/)
+- [Gavi](https://www.gavi.org/donate)
 
 ## Support independent press
-- Support AP Journalism
+- [Support AP Journalism](https://apnews.com/donate)
 - [ProPublica](https://www.propublica.org/)
-- American Journalism Project
-- Institute for Nonprofit News
-- Find Your News
+- [American Journalism Project](https://www.theajp.org/our-portfolio/)
+- [Institute for Nonprofit News](https://inn.org/resources/)
+- [Find Your News](https://findyournews.org/)
 
 ## Volunteering
-- Voter registration drives, phonebanking, voter education (e.g. Fair Fight, League of Women Voters, Voto Latino, and more). Check in with neighbors, friends, students and other first-time voters. These include conversations about how to register, why their vote matters, information about candidates, and how elections generally work.
-- Constitutional literacy: TeachDemocracy, ACLU Know your Rights, NILC resources, SPL center resources,
-- Combating misinformation: FactCheck.org, MediaMatters, News Literacy Project, CCDH
+- Voter registration drives, [phonebanking](https://www.impactive.io/blog/what-is-phone-banking-and-why-is-it-important), voter education (e.g. [Fair Fight](https://www.fairfight.com/lfgv), [League of Women Voters](https://www.lwv.org/), [Voto Latino](https://votolatino.org/understand/), and more). Check in with neighbors, friends, students and other first-time voters. These include conversations about how to register, why their vote matters, information about candidates, and how elections generally work.
+- Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
+- Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
 
 ## Political action (American citizens only)
-- Call your representatives
-- Show up to town halls [1] [2]
+- [Call your representatives](https://5calls.org/)
+- Show up to town halls [1](https://indivisible.org/town-hall-resources) [2](https://www.lwv.org/blog/your-members-congress-must-attend-town-halls-turn-heat)
 - Donate to Democrats in competitive local races
 
 ## Exercise Your Free Speech!
 - Use your platform--however small--to spread awareness
-- Science advocacy
-- Join protests against the Trump agenda, whether in the U.S. or abroad: [1]
--  - Upcoming: Hands Off: April 19
+- [Science advocacy](https://sciencehomecoming.com/) Talk about how science and science funding is essential for public and environmental health and supports national and local economy, and why the attacks on NIH, NSF, CDC, universities etc are wrong.
+- Join protests against the Trump agenda, whether in the U.S. or abroad [1](https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration)
+-  - Upcoming: [Hands Off: April 19](https://www.fiftyfifty.one/)
 
 
 ## Can we (American / otherwise) really effect change?
-- Yes: [1], [2], [3]
-- The power of incremental change:
+- Yes: [1](https://omeka.uottawa.ca/recipro/exhibits/show/the-transnational-anti-aparthe/cw-and-anti-apartheid), [2](https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War), [3](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action)
+- [The power of incremental change](https://www.theguardian.com/commentisfree/2025/mar/14/trump-democrats-political-change):
 "...one-third of respondents reported spending at least two hours a day reading, discussing and thinking about political news [without taking action]. Too many of us misunderstand what politics is: 'It’s about working in groups to turn one vote into more than one vote, one voice into more than one voice, by getting others on board with you.’”
-- Courage is contagious.
+- [Courage is contagious](https://www.newyorker.com/news/the-weekend-essay/so-you-want-to-be-a-dissident)
+- [Winning in courts](https://www.nytimes.com/interactive/2025/us/trump-administration-lawsuits.html)
