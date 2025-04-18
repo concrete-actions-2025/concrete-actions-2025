@@ -55,3 +55,5 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 "...one-third of respondents reported spending at least two hours a day reading, discussing and thinking about political news [without taking action]. Too many of us misunderstand what politics is: 'It’s about working in groups to turn one vote into more than one vote, one voice into more than one voice, by getting others on board with you.’”
 - [Courage is contagious](https://www.newyorker.com/news/the-weekend-essay/so-you-want-to-be-a-dissident)
 - [Winning in courts](https://www.nytimes.com/interactive/2025/us/trump-administration-lawsuits.html)
+
+Last updated: Apr 18, 2025
