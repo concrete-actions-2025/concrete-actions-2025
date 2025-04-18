@@ -28,7 +28,6 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - [Support AP Journalism](https://apnews.com/donate)
 - [ProPublica](https://www.propublica.org/)
 - [American Journalism Project](https://www.theajp.org/our-portfolio/)
-- [Institute for Nonprofit News](https://inn.org/resources/)
 - [Find Your News](https://findyournews.org/)
 
 ## Volunteering
