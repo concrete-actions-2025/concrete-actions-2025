@@ -22,11 +22,6 @@ A last challenge is to articulate what we are fighting for, not just against. An
 For now, [here](list-of-actions.md) is a specific (and growing) list of actions to take right now. Suggestions welcome [here](https://github.com/concrete-actions-2025/concrete-actions-2025/discussions) or [here](https://github.com/concrete-actions-2025/concrete-actions-2025/issues).
 
 ## Know Your Rights
-[To be updated] Examples:
-- Specific ones at [ACLU KYR](https://www.aclu.org/know-your-rights)
-- [Northwest Immigrant Rights Project](https://www.nwirp.org/resources/kyr/)
-- At the border, including digital privacy [[1]](https://www.theguardian.com/us-news/2025/mar/22/travelers-rights-entering-reentering-visa-phone-search) [[2]](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/) [[3]](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
-- [Registration for Immigrants](https://www.nilc.org/resources/know-your-rights-trumps-registration-requirement-for-immigrants/)
-- Protesting [[4]](https://www.nilc.org/resources/immigrant-participation-in-protests-rights/) [[5]](https://www.acludc.org/en/how-defend-against-police-surveillance-protests)
+See [here](know-your-rights.md)
 
 *For most references, I tried to choose openly available sources even when they were not the best. Universities offer free online access to some newspapers + some channels allow limited number of free articles.*
