@@ -20,6 +20,9 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - [Rapid Response Fund](https://www.founderspledge.com/funds/rapid-response-fund)
 - [Foreign Aid Bridge Fund](https://www.foreignaidbridgefund.org/)
 - [Gavi](https://www.gavi.org/donate)
+- [DoctorsWithoutBorders](https://www.doctorswithoutborders.org/)
+
+*More trustworthy suggestions welcome*
 
 ## Support independent press
 - [Support AP Journalism](https://apnews.com/donate)
