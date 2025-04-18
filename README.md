@@ -18,5 +18,8 @@ Another challenge is maintaining momentum beyond engaging in one-time action. Ev
 
 A last challenge is to articulate what we are fighting for, not just against. Anger is good for a sprint, but hope is essential for going the distance. And the future cannot just be the status quo that led us to this moment. I don’t think it’s about envisioning a grand plan but at the minimum, a critical reflection on our values, what we want engagement at the local level to look like, and how we can build more compassionate communities.
 
+## List of Actions
+
+For now, [here](list-of-actions.md) is a specific (and growing) list of actions to take right now. Suggestions welcome [here](https://github.com/concrete-actions-2025/concrete-actions-2025/discussions) or [here](https://github.com/concrete-actions-2025/concrete-actions-2025/issues).
 
 *For most references, I tried to choose openly available sources even when they were not the best. Universities offer free online access to some newspapers + some channels allow limited number of free articles.*
