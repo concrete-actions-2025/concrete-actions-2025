@@ -1,6 +1,7 @@
 # What we can do right now
 
 [Take me to the list](list-of-actions.md)
+
 [Will I be safe? What are my rights?](know-your-rights.md)
 
 ## Note
