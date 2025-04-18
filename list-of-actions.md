@@ -23,6 +23,7 @@ The Health Secretary et al are running a massive disinformation campaign [1] [2]
 
 ## Support independent press
 - Support AP Journalism
+- [ProPublica](https://www.propublica.org/)
 - American Journalism Project
 - Institute for Nonprofit News
 - Find Your News
