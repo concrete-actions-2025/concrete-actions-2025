@@ -25,7 +25,7 @@ For now, [here](list-of-actions.md) is a specific (and growing) list of actions 
 ## Know Your Rights
 [To be updated] Examples:
 - Specific ones at [ACLU KYR](https://www.aclu.org/know-your-rights)
-- [Northwest Immigrant Rights Project](https://www.nwirp.org/resources/kyr/) [At pr
+- [Northwest Immigrant Rights Project](https://www.nwirp.org/resources/kyr/)
 - At the border, including digital privacy [[1]](https://www.theguardian.com/us-news/2025/mar/22/travelers-rights-entering-reentering-visa-phone-search) [[2]](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/) [[3]](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
 - [Registration for Immigrants](https://www.nilc.org/resources/know-your-rights-trumps-registration-requirement-for-immigrants/)
 - Protesting [[4]](https://www.nilc.org/resources/immigrant-participation-in-protests-rights/) [[5]](https://www.acludc.org/en/how-defend-against-police-surveillance-protests)
