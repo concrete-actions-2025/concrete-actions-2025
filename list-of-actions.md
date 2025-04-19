@@ -36,7 +36,7 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - Improving the information ecosystem. This can be reaching out to friend networks or with local organizing, for example in collaboration with unions, institutions of faith, neighborhood associations or residential communities etc.
    - Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
    - Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
-- Mutual aid groups
+- [Mutual aid groups](https://afsc.org/news/how-create-mutual-aid-network)
 
 ## Political action (US residents)
 - [Call your representatives](https://5calls.org/)
