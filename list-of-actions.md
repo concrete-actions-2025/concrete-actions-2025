@@ -13,8 +13,10 @@ Support organizations on the front lines—challenging unlawful deportations, de
 - [National Women’s Law Center](https://nwlc.org/)
 - [Center for Reproductive Rights](https://reproductiverights.org/)
 - Others: ACLU and Planned Parenthood are more famous, and still doing good work, but are now well-oiled fundraising machines [with possible downsides](https://www.newyorker.com/news/our-columnists/the-asymmetry-in-the-abortion-rights-movement)
+
+Disclaimer: Please be careful about who you donate to and what you might be comfortable at a later point linked to you by a potentially malicous actor.
   
-## Donate to (international) health and education nonprofits 
+## Donate to (international) health & education nonprofits, and mutual aid groups 
 The Health Secretary et al are running a massive disinformation campaign [[1]](https://www.npr.org/sections/shots-health-news/2025/03/28/nx-s1-5344010/fda-peter-marks-rfk-jr) [[2]](https://www.theguardian.com/us-news/2025/apr/16/rjk-jr-rise-autism-diagnoses) and defunding the Centre for Disease Control and the National Institutes for Health [[3]](https://www.wired.com/story/cdc-gutted-rif/) [[4]](https://www.nature.com/articles/d41586-025-01099-8) at the same time as multiple ongoing and future threats to public health [[5]](https://healthpolicy-watch.news/us-measles-cases-soar-as-health-secretary-sends-mixed-messages-about-vaccines/) [[6]](https://www.theguardian.com/world/2025/feb/16/monday-briefing-whether-it-becomes-a-pandemic-or-not-the-bird-flu-crisis-warrants-attention). Loss of federal funding is also disrupting the work of nonprofits, both within the US and globally, that distribute medicines, run vaccination and nutrition programs [[7]](https://apnews.com/article/trump-africa-aid-freeze-pepfar-usaid-hiv-d1c34ac35af30e8f680f580f7d1b3029) [[8]](https://www.nytimes.com/2025/02/27/health/usaid-contract-terminations.html). Donating money now should not be seen as a case for permanent philanthropic (rather than government) funding of these projects but to act as a stopgap while they are battling it out in the courts. Inspired by [this post](https://www.scientificdiscovery.dev/p/we-dont-have-to-sit-back-and-just), some options: 
 
 - [Rapid Response Fund](https://www.founderspledge.com/funds/rapid-response-fund)
