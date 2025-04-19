@@ -12,11 +12,13 @@
   
 ## Protesting 
 
-[The right to protest is a fundamental human right guaranteed by the U.S. Constitution and the First Amendment.](https://constitution.congress.gov/constitution/amendment-1/) This applies to all citizens and immigrants alike.
+[The right to protest is a fundamental human right guaranteed by the U.S. Constitution and the First Amendment.](https://constitution.congress.gov/constitution/amendment-1/) This applies to all citizens and immigrants alike (*). 
 
 - [Rights as participants](https://www.nilc.org/resources/immigrant-participation-in-protests-rights/)
 - [Defend against surveillance](https://www.acludc.org/en/how-defend-against-police-surveillance-protests)
 
+(*) Despite this, protests may put you in danger of low-level charges or arrests that may be risky for non-immigrants or undocumented immigrants in the current climate [[1]](https://www.latimes.com/world-nation/story/2025-04-17/visa-cancellations-international-students-fear-deportation) [[2]](https://www.nytimes.com/article/laken-riley-act-explained.html).
+  
 ## ICE
 
 There are know your rights resources for immigrants regarding encounters with ICE at the [Immigrant Legal Resource Center](ilrc.org):
