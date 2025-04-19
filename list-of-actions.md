@@ -15,7 +15,7 @@ Support organizations on the front lines—challenging unlawful deportations, de
 - Others: ACLU and Planned Parenthood are more famous, and still doing good work, but are now well-oiled fundraising machines [with possible downsides](https://www.newyorker.com/news/our-columnists/the-asymmetry-in-the-abortion-rights-movement)
 
   
-## Donate to (international) health & education nonprofits, and mutual aid groups 
+## Donate to (international) health & education nonprofits
 The Health Secretary et al are running a massive disinformation campaign [[1]](https://www.npr.org/sections/shots-health-news/2025/03/28/nx-s1-5344010/fda-peter-marks-rfk-jr) [[2]](https://www.theguardian.com/us-news/2025/apr/16/rjk-jr-rise-autism-diagnoses) and defunding the Centre for Disease Control and the National Institutes for Health [[3]](https://www.wired.com/story/cdc-gutted-rif/) [[4]](https://www.nature.com/articles/d41586-025-01099-8) at the same time as multiple ongoing and future threats to public health [[5]](https://healthpolicy-watch.news/us-measles-cases-soar-as-health-secretary-sends-mixed-messages-about-vaccines/) [[6]](https://www.theguardian.com/world/2025/feb/16/monday-briefing-whether-it-becomes-a-pandemic-or-not-the-bird-flu-crisis-warrants-attention). Loss of federal funding is also disrupting the work of nonprofits, both within the US and globally, that distribute medicines, run vaccination and nutrition programs [[7]](https://apnews.com/article/trump-africa-aid-freeze-pepfar-usaid-hiv-d1c34ac35af30e8f680f580f7d1b3029) [[8]](https://www.nytimes.com/2025/02/27/health/usaid-contract-terminations.html). Donating money now should not be seen as a case for permanent philanthropic (rather than government) funding of these projects but to act as a stopgap while they are battling it out in the courts. Inspired by [this post](https://www.scientificdiscovery.dev/p/we-dont-have-to-sit-back-and-just), some options: 
 
 - [Rapid Response Fund](https://www.founderspledge.com/funds/rapid-response-fund)
@@ -36,6 +36,7 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - Improving the information ecosystem. This can be reaching out to friend networks or with local organizing, for example in collaboration with unions, institutions of faith, neighborhood associations or residential communities etc.
    - Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
    - Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
+- Mutual aid groups
 
 ## Political action (US residents)
 - [Call your representatives](https://5calls.org/)
