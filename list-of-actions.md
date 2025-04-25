@@ -22,6 +22,7 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - [Foreign Aid Bridge Fund](https://www.foreignaidbridgefund.org/)
 - [Gavi](https://www.gavi.org/donate)
 - [DoctorsWithoutBorders](https://www.doctorswithoutborders.org/)
+- LGBTQ+ helplines: [Trevor Project](https://www.thetrevorproject.org/get-help/) and [Trans Lifeline](https://translifeline.org/)
 
 *More trustworthy suggestions welcome*
 
@@ -37,6 +38,8 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
    - Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
    - Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
 - [Mutual aid groups](https://afsc.org/news/how-create-mutual-aid-network)
+   - Find ones in your local area, eg [[1]](https://www.norcalresist.org/) [[2]](https://www.dcmigrantmutualaid.org/) [[3]](https://docs.google.com/spreadsheets/d/e/2PACX-1vSh724qD3iVITCGvd9RBpp5Lkb6Kc6VgWrp8dzzem3lFftnQ_C3E3LY51JLnfrAxj2VMVj3OKMhcHLa/pubhtml?gid=0&single=true) [[4]](https://mutualaid.nyc/mutual-aid-groups/) [[5]](https://linktr.ee/communitykitchenchicago) [[6]](https://docs.google.com/document/d/1bDORfX5FdHRBVa8r3H5SSfXUoOkH_FqhH0NpJqsnV7c/edit?tab=t.0)
+   - List at [Trans Lifeline](https://translifeline.org/resource_category/mutual-aid-funds/)
 
 ## Political action (US residents)
 - [Call your representatives](https://5calls.org/)
