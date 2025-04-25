@@ -27,8 +27,10 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 *More trustworthy suggestions welcome*
 
 ## Support independent press
-- [Support AP Journalism](https://apnews.com/donate)
+Independent journalism is much needed to report on this administration's agenda and its consequences, without pressure, bias, and whitewashing. Yet it is under attack - grant cancellations, legal threats, revoking of licenses and access, and billionare control of corporate media. Subscribing and donating to trustworthy and independent news organizations goes a long way.
 - [ProPublica](https://www.propublica.org/)
+- [Wired](https://www.wired.com/)
+- [Support AP Journalism](https://apnews.com/donate)
 - [American Journalism Project](https://www.theajp.org/our-portfolio/)
 - [Find Your News](https://findyournews.org/)
 
