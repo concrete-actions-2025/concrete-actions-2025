@@ -34,7 +34,7 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 
 ## Volunteering
 - Voter registration drives, [phonebanking](https://www.impactive.io/blog/what-is-phone-banking-and-why-is-it-important), voter education (e.g. [Fair Fight](https://www.fairfight.com/lfgv), [League of Women Voters](https://www.lwv.org/), [Voto Latino](https://votolatino.org/understand/), and more). Check in with neighbors, friends, students and other first-time voters. These include conversations about how to register, why their vote matters, information about candidates, and how elections generally work.
-- Improving the information ecosystem. This can be reaching out to friend networks or with local organizing, for example in collaboration with unions, institutions of faith, neighborhood associations or residential communities etc.
+- __Improving the information ecosystem__. This can be reaching out to friend networks or with local organizing, for example in collaboration with unions, institutions of faith, neighborhood associations or residential communities etc.
    - Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
    - Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
 - [Mutual aid groups](https://afsc.org/news/how-create-mutual-aid-network)
