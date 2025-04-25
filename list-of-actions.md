@@ -51,7 +51,8 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - Use your platform--however small--to spread awareness - write, speak, create art!
 - [Science advocacy](https://sciencehomecoming.com/). Talk about how science and science funding is essential for public and environmental health and supports national and local economy, and why the attacks on federal agencies such as NIH, CDC, NSF and universities are wrong.
 - Join protests against the Trump agenda, whether in the U.S. or abroad [1](https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration)
-  - Upcoming: [National Day of Action](https://www.fiftyfifty.one/)
+  - Upcoming:
+      - [May Day]([https://actionnetwork.org/event_campaigns/may-day-strong](https://maydaystrong.org/))
   - [Know Your Rights](know-your-rights.md#protesting)
 
 
@@ -62,4 +63,4 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - [Courage is contagious](https://www.newyorker.com/news/the-weekend-essay/so-you-want-to-be-a-dissident)
 - [Winning in courts](https://www.nytimes.com/interactive/2025/us/trump-administration-lawsuits.html)
 
-Last updated: Apr 18, 2025
+Last updated: Apr 24, 2025
