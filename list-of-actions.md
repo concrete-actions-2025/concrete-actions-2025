@@ -24,7 +24,6 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - [DoctorsWithoutBorders](https://www.doctorswithoutborders.org/)
 - LGBTQ+ helplines: [Trevor Project](https://www.thetrevorproject.org/get-help/) and [Trans Lifeline](https://translifeline.org/)
 
-
 *More trustworthy suggestions welcome*
 
 ## Support independent press
@@ -38,6 +37,7 @@ Independent journalism is much needed to report on this administration's agenda 
 ## Volunteering
 - Voter registration drives, [phonebanking](https://www.impactive.io/blog/what-is-phone-banking-and-why-is-it-important), voter education (e.g. [Fair Fight](https://www.fairfight.com/lfgv), [League of Women Voters](https://www.lwv.org/), [Voto Latino](https://votolatino.org/understand/), and more). Check in with neighbors, friends, students and other first-time voters. These include conversations about how to register, why their vote matters, information about candidates, and how elections generally work.
 - __Improving the information ecosystem__. This can be reaching out to friend networks or with local organizing, for example in collaboration with unions, institutions of faith, neighborhood associations or residential communities etc.
+   - Vaccine literacy: [[Video 1]](https://www.youtube.com/watch?v=ZjlINJWJm_k), [[Video 2]](https://www.youtube.com/watch?v=pMllRXkzDsA&list=PLuhZ6_ONjgIlg_LXSb4kOJpAVGLvzzNJd&index=1) from [[Series]](https://www.youtube.com/@Stanford_CHE/playlists), [[For kids]](https://www.chop.edu/parents-pack/resources/kids-and-teens-resources), [[Worksheet and teacher resources]](https://www.sabes.org/content/teaching-about-vaccines-lesson-materials/math-and-numeracy-sabes-mathematics-and-adult)
    - Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
    - Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
 - [Mutual aid groups](https://afsc.org/news/how-create-mutual-aid-network)
