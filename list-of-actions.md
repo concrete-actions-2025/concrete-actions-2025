@@ -1,4 +1,4 @@
-
+It is easy to be overwhelmed, rather than energized, by all the possibilities for action; my own approach is to identify what I feel most *informed* about and most *agitated* about. If you're hesitant, start with one easy thing and commit to it - maybe setting up monthly donations or "making 5 calls". If you can, build momentum for deeper civic engagement that can also outlast the current crisis.
  
 ## Donate to legal and civil rights organizations
 Support organizations on the front lines—challenging unlawful deportations, defending free speech, and protecting marginalized communities in court. *Foreign donations: if your credit card is not going through, try PayPal*.
