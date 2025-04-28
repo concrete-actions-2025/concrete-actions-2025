@@ -15,7 +15,7 @@ Support organizations on the front lines—challenging unlawful deportations, de
 - Others: ACLU and Planned Parenthood are more famous, and still doing good work, but are now well-oiled fundraising machines [with possible downsides](https://www.newyorker.com/news/our-columnists/the-asymmetry-in-the-abortion-rights-movement)
 
   
-## Donate to (international) health & education nonprofits
+## Donate to (international) health nonprofits
 The Health Secretary et al are running a massive disinformation campaign [[1]](https://www.npr.org/sections/shots-health-news/2025/03/28/nx-s1-5344010/fda-peter-marks-rfk-jr) [[2]](https://www.theguardian.com/us-news/2025/apr/16/rjk-jr-rise-autism-diagnoses) and defunding the Centre for Disease Control and the National Institutes for Health [[3]](https://www.wired.com/story/cdc-gutted-rif/) [[4]](https://www.nature.com/articles/d41586-025-01099-8) at the same time as multiple ongoing and future threats to public health [[5]](https://healthpolicy-watch.news/us-measles-cases-soar-as-health-secretary-sends-mixed-messages-about-vaccines/) [[6]](https://www.theguardian.com/world/2025/feb/16/monday-briefing-whether-it-becomes-a-pandemic-or-not-the-bird-flu-crisis-warrants-attention). Loss of federal funding is also disrupting the work of nonprofits, both within the US and globally, that distribute medicines, run vaccination and nutrition programs [[7]](https://apnews.com/article/trump-africa-aid-freeze-pepfar-usaid-hiv-d1c34ac35af30e8f680f580f7d1b3029) [[8]](https://www.nytimes.com/2025/02/27/health/usaid-contract-terminations.html). Donating money now should not be seen as a case for permanent philanthropic (rather than government) funding of these projects but to act as a stopgap while they are battling it out in the courts. Inspired by [this post](https://www.scientificdiscovery.dev/p/we-dont-have-to-sit-back-and-just), some options: 
 
 - [Rapid Response Fund](https://www.founderspledge.com/funds/rapid-response-fund)
@@ -23,6 +23,7 @@ The Health Secretary et al are running a massive disinformation campaign [[1]](h
 - [Gavi](https://www.gavi.org/donate)
 - [DoctorsWithoutBorders](https://www.doctorswithoutborders.org/)
 - LGBTQ+ helplines: [Trevor Project](https://www.thetrevorproject.org/get-help/) and [Trans Lifeline](https://translifeline.org/)
+
 
 *More trustworthy suggestions welcome*
 
@@ -42,6 +43,8 @@ Independent journalism is much needed to report on this administration's agenda 
 - [Mutual aid groups](https://afsc.org/news/how-create-mutual-aid-network)
    - Find ones in your local area, eg [[NorCal]](https://www.norcalresist.org/) [[DC]](https://www.dcmigrantmutualaid.org/) [[Seattle]](https://docs.google.com/spreadsheets/d/e/2PACX-1vSh724qD3iVITCGvd9RBpp5Lkb6Kc6VgWrp8dzzem3lFftnQ_C3E3LY51JLnfrAxj2VMVj3OKMhcHLa/pubhtml?gid=0&single=true) [[NYC]](https://mutualaid.nyc/mutual-aid-groups/) [[Chicago]](https://linktr.ee/communitykitchenchicago)
    - List at [Trans Lifeline](https://translifeline.org/resource_category/mutual-aid-funds/)
+- Donations/voluteering for [anti-hunger](https://www.feedingamerica.org/hunger-in-america) groups: Food banks, meal programs for schools, for the elderly, and fresh/hot food, [lost almost $1 billion in federal funding and are facing hardship due to rising costs](https://www.today.com/food/news/usda-food-bank-cuts-rcna200070). Actions: Calling representatives about restoring federal and state funding for food aid, donations, volunteering with food distribution charities.
+  
 
 ## Political action (US residents)
 - [Call your representatives](https://5calls.org/)
