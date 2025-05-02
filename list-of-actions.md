@@ -32,7 +32,6 @@ Independent journalism is much needed to report on this administration's agenda 
 - [Wired](https://www.wired.com/)
 - [Support AP Journalism](https://apnews.com/donate)
 - [American Journalism Project](https://www.theajp.org/our-portfolio/)
-- [Find Your News](https://findyournews.org/)
 
 ## Volunteering
 - Voter registration drives, [phonebanking](https://www.impactive.io/blog/what-is-phone-banking-and-why-is-it-important), voter education (e.g. [Fair Fight](https://www.fairfight.com/lfgv), [League of Women Voters](https://www.lwv.org/), [Voto Latino](https://votolatino.org/understand/), and more). Check in with neighbors, friends, students and other first-time voters. These include conversations about how to register, why their vote matters, information about candidates, and how elections generally work.
