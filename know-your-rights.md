@@ -21,10 +21,11 @@ There are know your rights resources for immigrants regarding encounters with IC
 
 <img src="what_to_say_to_ICE_agents_1.png" alt="Card for ICE" width="50%"/>
   
-## At the border 
-
-- [Re-entering the US](https://www.theguardian.com/us-news/2025/mar/22/travelers-rights-entering-reentering-visa-phone-search)
-- Securing digital privacy [1](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/) [2](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
+## Travel/ At the border
+- [Example travel guide](https://static1.squarespace.com/static/59134566e58c623970f2cd48/t/679d08251426970724916911/1738344488561/Travel+digital+pamphletJan2025.pdf)
+- Guide for international students [[1]](https://www.bu.edu/articles/2025/international-students-and-faculty-resource-guide/)
+- Re-entering the US [[ACLU]](https://www.aclu.org/know-your-rights/what-do-when-encountering-law-enforcement-airports-and-other-ports-entry-us)
+- Securing digital privacy [[1]](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/) [[2]](https://www.eff.org/wp/digital-privacy-us-border-2017) [[3]](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
 - [New rule regarding registration for immigrants](https://www.nilc.org/resources/know-your-rights-trumps-registration-requirement-for-immigrants/)
   
-Last updated: Apr 18, 2025
+Last updated: May 1, 2025
