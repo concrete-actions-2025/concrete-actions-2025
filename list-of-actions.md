@@ -49,6 +49,7 @@ Independent journalism is much needed to report on this administration's agenda 
 - [Call your representatives](https://5calls.org/)
 - Show up to town halls [[1]](https://indivisible.org/town-hall-resources) [[2]](https://www.lwv.org/blog/your-members-congress-must-attend-town-halls-turn-heat)
 - Donate in competitive local races
+  - [List](https://boltsmag.org/whats-on-the-ballot/guide-to-elections-in-may-2025/) of important elections in May
   - NYC Mayoral elections [[3]](https://region9a.uaw.org/news/dreamnyc)
 
 ## Exercise Your Free Speech!
