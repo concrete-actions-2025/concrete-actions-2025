@@ -14,6 +14,14 @@ Support organizations on the front lines—challenging unlawful deportations, de
 - [Center for Reproductive Rights](https://reproductiverights.org/)
 - Others: ACLU and Planned Parenthood are more famous, and still doing good work, but are now well-oiled fundraising machines [with possible downsides](https://www.newyorker.com/news/our-columnists/the-asymmetry-in-the-abortion-rights-movement)
 
+## Defense against anti-immigrant tactics
+The administration has significantly escalated Immigration and Customs Enforcement (ICE) operations across the country, targeting people at [immigration courts](https://www.theguardian.com/us-news/2025/may/22/ice-arrests-immigration-courts) and workplaces and using [deceptive ruses](https://www.immigrantdefenseproject.org/ice-ruses/). These actions have torn families apart, disrupted communities, and fueled fear among immigrant populations who have already faced repeated attacks under this administration. It is essential that we take every possible step to protect our community members and ensure that everyone can live with the safety and dignity we all deserve.
+
+- Know Your Rights materials - infographics and flyers on [[IDP]](https://www.immigrantdefenseproject.org/know-your-rights-with-ice/) [[Documenting Immigration Enforcement]](https://library.witness.org/product/filming-immigration-enforcement/)
+- Prepare emergency plans for your own place of work or local community. General resources: [[1]](https://www.clasp.org/immigration-raid-resources/), [[2]](https://michiganimmigrant.org/sites/default/files/2025-03/preparing-your-community-for-immigration-raids-toolkit-2025.pdf), [[For parents]](https://www.immigrantdefenseproject.org/wp-content/uploads/Emergency-Preparedness-Toolkit.pdf), [[At the workplace]](https://www.nyic.org/wp-content/uploads/2025/01/Immigration-Enforcement-at-the-Workplace-NYIC-2024.12.13-1.pdf), [[Homeless service providers]](https://homelesslaw.org/wp-content/uploads/2025/01/ICE-Guidance.pdf) 
+- Connect with community partners, e.g. translation/language support for KYR/preparedness materials, legal support centers, faith-based immigrant support networks
+- Donate to [immigration bond funds](https://www.communityjusticeexchange.org/en/nbfn-directory_)
+
   
 ## Donate to (international) health nonprofits
 The Health Secretary et al are running a massive disinformation campaign [[1]](https://www.npr.org/sections/shots-health-news/2025/03/28/nx-s1-5344010/fda-peter-marks-rfk-jr) [[2]](https://www.theguardian.com/us-news/2025/apr/16/rjk-jr-rise-autism-diagnoses) and defunding the Centre for Disease Control and the National Institutes for Health [[3]](https://www.wired.com/story/cdc-gutted-rif/) [[4]](https://www.nature.com/articles/d41586-025-01099-8) at the same time as multiple ongoing and future threats to public health [[5]](https://healthpolicy-watch.news/us-measles-cases-soar-as-health-secretary-sends-mixed-messages-about-vaccines/) [[6]](https://www.theguardian.com/world/2025/feb/16/monday-briefing-whether-it-becomes-a-pandemic-or-not-the-bird-flu-crisis-warrants-attention). Loss of federal funding is also disrupting the work of nonprofits, both within the US and globally, that distribute medicines, run vaccination and nutrition programs [[7]](https://apnews.com/article/trump-africa-aid-freeze-pepfar-usaid-hiv-d1c34ac35af30e8f680f580f7d1b3029) [[8]](https://www.nytimes.com/2025/02/27/health/usaid-contract-terminations.html). Donating money now should not be seen as a case for permanent philanthropic (rather than government) funding of these projects but to act as a stopgap while they are battling it out in the courts. Inspired by [this post](https://www.scientificdiscovery.dev/p/we-dont-have-to-sit-back-and-just), some options: 
@@ -55,8 +63,9 @@ Independent journalism is much needed to report on this administration's agenda 
 ## Exercise Your Free Speech!
 - Use your platform--however small--to spread awareness - write, speak, create art!
 - [Science advocacy](https://sciencehomecoming.com/). Talk about how science and science funding is essential for public and environmental health and supports national and local economy, and why the attacks on federal agencies such as NIH, CDC, NSF and universities are wrong.
+- [Support NIH employees](https://act.standupforscience.net/forms/add-name-bethesda-declaration/?source=website&utm_source=website&utm_campaign=bethesdadec) 
 - Join protests against the Trump agenda, whether in the U.S. or abroad [1](https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration)
-  - Upcoming: [May Day](https://maydaystrong.org/)
+  - Upcoming: [June 14 protests](https://www.nokings.org/), [Disappeared in America Visual Action](https://www.mobilize.us/notabovethelaw/c/disappeared-in-america-action/event/create/?utm_source=publiccitizen)
   - [Know Your Rights](know-your-rights.md#protesting)
 
 
@@ -67,4 +76,4 @@ Independent journalism is much needed to report on this administration's agenda 
 - [Courage is contagious](https://www.newyorker.com/news/the-weekend-essay/so-you-want-to-be-a-dissident)
 - [Winning in courts](https://www.nytimes.com/interactive/2025/us/trump-administration-lawsuits.html)
 
-Last updated: Apr 24, 2025
+Last updated: Jun 10, 2025
