@@ -42,6 +42,7 @@ Independent journalism is much needed to report on this administration's agenda 
 - [American Journalism Project](https://www.theajp.org/our-portfolio/)
 
 ## Volunteering
+
 ### Voter engagement
 Check in with neighbors, friends, students and other first-time voters. These include conversations about how to register, why their vote matters, information about candidates, and how elections generally work.
 - Voter registration drives
@@ -54,7 +55,7 @@ This can be reaching out to friend networks or with local organizing, for exampl
    - Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
    - Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
  
- ### Mutual aid groups
+### Mutual aid groups
 [Mutual aid groups](https://afsc.org/news/how-create-mutual-aid-network) involve people coming together to meet each other’s needs—like sharing food, supplies, or help, and is a powerful way to support your community, build real connections, and make sure everyone is cared for. 
    - Find ones in your local area, eg [[NorCal]](https://www.norcalresist.org/) [[DC]](https://www.dcmigrantmutualaid.org/) [[Seattle]](https://docs.google.com/spreadsheets/d/e/2PACX-1vSh724qD3iVITCGvd9RBpp5Lkb6Kc6VgWrp8dzzem3lFftnQ_C3E3LY51JLnfrAxj2VMVj3OKMhcHLa/pubhtml?gid=0&single=true) [[NYC]](https://mutualaid.nyc/mutual-aid-groups/) [[Chicago]](https://linktr.ee/communitykitchenchicago)
    - List at [Trans Lifeline](https://translifeline.org/resource_category/mutual-aid-funds/)
