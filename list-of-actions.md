@@ -42,15 +42,33 @@ Independent journalism is much needed to report on this administration's agenda 
 - [American Journalism Project](https://www.theajp.org/our-portfolio/)
 
 ## Volunteering
-- Voter registration drives, [phonebanking](https://www.impactive.io/blog/what-is-phone-banking-and-why-is-it-important), voter education (e.g. [Fair Fight](https://www.fairfight.com/lfgv), [League of Women Voters](https://www.lwv.org/), [Voto Latino](https://votolatino.org/understand/), and more). Check in with neighbors, friends, students and other first-time voters. These include conversations about how to register, why their vote matters, information about candidates, and how elections generally work.
-- __Improving the information ecosystem__. This can be reaching out to friend networks or with local organizing, for example in collaboration with unions, institutions of faith, neighborhood associations or residential communities etc.
+### Voter engagement
+Check in with neighbors, friends, students and other first-time voters. These include conversations about how to register, why their vote matters, information about candidates, and how elections generally work.
+- Voter registration drives
+- [phonebanking](https://www.impactive.io/blog/what-is-phone-banking-and-why-is-it-important)
+- voter education (e.g. [Fair Fight](https://www.fairfight.com/lfgv), [League of Women Voters](https://www.lwv.org/), [Voto Latino](https://votolatino.org/understand/), and more).
+
+### Improving the information ecosystem 
+This can be reaching out to friend networks or with local organizing, for example in collaboration with unions, institutions of faith, neighborhood associations or residential communities etc.
    - Vaccine literacy: How to talk: [[1]](https://www.unicef.org/how-talk-about-vaccines) [[2]](https://gillings-projects.unc.edu/cph-articles/how-do-i-talk-about-vaccines), [[Video 1]](https://www.youtube.com/watch?v=ZjlINJWJm_k), [[Video 2]](https://www.youtube.com/watch?v=pMllRXkzDsA&list=PLuhZ6_ONjgIlg_LXSb4kOJpAVGLvzzNJd&index=1) from [[Series]](https://www.youtube.com/@Stanford_CHE/playlists), [[For kids]](https://www.chop.edu/parents-pack/resources/kids-and-teens-resources), [[Worksheet and teacher resources]](https://www.sabes.org/content/teaching-about-vaccines-lesson-materials/math-and-numeracy-sabes-mathematics-and-adult)
    - Constitutional literacy: [TeachDemocracy](https://teachdemocracy.org/), [ACLU Know your Rights](https://www.aclu.org/know-your-rights), [NILC resources](https://www.nilc.org/resources), [SPL center resources](https://www.splcenter.org/resources)
    - Combating misinformation: [FactCheck.org](https://www.factcheck.org/), [MediaMatters](https://www.mediamatters.org/about-us), [News Literacy Project](https://newslit.org/), [CCDH](https://counterhate.com/our-work/)
-- [Mutual aid groups](https://afsc.org/news/how-create-mutual-aid-network)
+ 
+ ### Mutual aid groups
+[Mutual aid groups](https://afsc.org/news/how-create-mutual-aid-network) involve people coming together to meet each other’s needs—like sharing food, supplies, or help, and is a powerful way to support your community, build real connections, and make sure everyone is cared for. 
    - Find ones in your local area, eg [[NorCal]](https://www.norcalresist.org/) [[DC]](https://www.dcmigrantmutualaid.org/) [[Seattle]](https://docs.google.com/spreadsheets/d/e/2PACX-1vSh724qD3iVITCGvd9RBpp5Lkb6Kc6VgWrp8dzzem3lFftnQ_C3E3LY51JLnfrAxj2VMVj3OKMhcHLa/pubhtml?gid=0&single=true) [[NYC]](https://mutualaid.nyc/mutual-aid-groups/) [[Chicago]](https://linktr.ee/communitykitchenchicago)
    - List at [Trans Lifeline](https://translifeline.org/resource_category/mutual-aid-funds/)
-- Donations/voluteering for [anti-hunger](https://www.feedingamerica.org/hunger-in-america) groups: Food banks, meal programs for schools, for the elderly, and fresh/hot food, [lost almost $1 billion in federal funding and are facing hardship due to rising costs](https://www.today.com/food/news/usda-food-bank-cuts-rcna200070). Actions: Calling representatives about restoring federal and state funding for food aid, donations, volunteering with food distribution charities.
+
+
+### Donations/voluteering for anti-hunger groups
+Food banks, meal programs for schools, for the elderly, and fresh/hot food, [lost almost $1 billion in federal funding and are facing hardship due to rising costs](https://www.today.com/food/news/usda-food-bank-cuts-rcna200070). The new bill passed by Congress will impact food assistance programs like [SNAP](https://www.cbpp.org/research/food-assistance/the-supplemental-nutrition-assistance-program-snap) taking [food security away from millions of families in need, and putting even more pressure on food banks](https://www.americanprogress.org/article/the-one-big-beautiful-bills-snap-cuts-would-strain-food-banks-amid-rising-food-insecurity/).
+- Calling representatives about restoring federal and state funding for food aid, eg [[1]](https://5calls.org/issue/usda-funding-cuts-food-banks-school-nutrition/)
+- Donations to food banks
+- Organizing food drives
+- Corporate partnerships with food banks
+- Volunteering with food distribution groups
+
+Find your local foodbank on [Feeding America](https://www.feedingamerica.org/find-your-local-foodbank) and other anti-hunger organizations [in your state](https://frac.org/about/1303-2).
   
 
 ## Political action (US residents)
@@ -76,4 +94,4 @@ Independent journalism is much needed to report on this administration's agenda 
 - [Courage is contagious](https://www.newyorker.com/news/the-weekend-essay/so-you-want-to-be-a-dissident)
 - [Winning in courts](https://www.nytimes.com/interactive/2025/us/trump-administration-lawsuits.html)
 
-Last updated: Jun 10, 2025
+Last updated: July 4, 2025
